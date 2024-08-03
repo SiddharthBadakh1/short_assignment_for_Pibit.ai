@@ -1,0 +1,128 @@
+{
+  "PersonalInformation": {
+    "Name": "Siddharth Badakh",
+    "Phone": "9579840289",
+    "Email": "siddharthbadakh10@gmail.com",
+    "LinkedIn": "linkedin"
+  },
+  "Education": [
+    {
+      "Institution": "Vishwakarma Institute of Information Technology Pune, Maharashtra",
+      "Degree": "Bachelor of Technology in Computer Engineering",
+      "CGPA": "9.29",
+      "Status": "Pursuing",
+      "Duration": "Dec. 2021— Present"
+    },
+    {
+      "Institution": "Trimurti Arts, Commerce And Science Higher Secondary School Shrirampur, Maharashtra",
+      "Degree": "HSC Board",
+      "Percentage": "88.17%",
+      "Duration": "Jun. 2019– Feb. 2021"
+    }
+  ],
+  "TechnicalSkills": {
+    "Languages": [
+      "C/C++",
+      "Java",
+      "Python",
+      "JavaScript",
+      "HTML",
+      "CSS",
+      "SQL"
+    ],
+    "Databases": [
+      "MySQL"
+    ],
+    "Frameworks": [
+      "ReactJS",
+      "ExpressJS",
+      "Bootstrap"
+    ],
+    "DevelopmentTools": [
+      "Git",
+      "GitHub",
+      "Docker",
+      "Kubernetes"
+    ],
+    "RelatedCoursework": [
+      "Data Structures",
+      "Algorithms",
+      "Computer Networks",
+      "Database Management Systems",
+      "Operating Systems"
+    ]
+  },
+  "Projects": [
+    {
+      "Name": "Gesture Recognition for Human-Computer Interaction",
+      "GitHub": "GitHub",
+      "Date": "Jan 2024",
+      "Technologies": [
+        "Deep Learning",
+        "Python",
+        "open-CV",
+        "Computer vision"
+      ],
+      "Description": [
+        "Engineered a solution for real-time sign language detection using computer vision and deep learning",
+        "This project employs Media-Pipe for real-time holistic landmark detection using webcam input. It captures video, processes it through the holistic model, and exports key point data. The exported data trains an LSTM neural network to recognize predefined actions.",
+        "The trained model predicts actions in real-time.",
+        "Developed and implemented a system with 90.5 percentage accuracy in hand gesture recognition."
+      ]
+    },
+    {
+      "Name": "Wanderlust",
+      "GitHub": "GitHub",
+      "Date": "April 2024",
+      "Technologies": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "Node",
+        "Express",
+        "MongoDB"
+      ],
+      "Description": [
+        "Developed a full-stack web application on which users can book and rent hotels, holiday homes, and other accommodations. Property providers have the opportunity to list their properties on the website as well.",
+        "Created the front-end using HTML, CSS, JavaScript, and Bootstrap for a responsive and Eye-catching design.",
+        "Established a robust back-end infrastructure with MongoDB, Node.js, and Express.js, enabling efficient data management and seamless API integration."
+      ]
+    },
+    {
+      "Name": "Money Map",
+      "GitHub": "GitHub",
+      "Date": "July 2024",
+      "Technologies": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "Node",
+        "Express",
+        "MongoDB"
+      ],
+      "Description": [
+        "An all-in-one platform for students’ money tracking, financial education, investor connections, and scholarships.",
+        "Features - Expense and income tracking for insights on spending and cash flow. Scholarship finder to suggest the best scholarships based on user background. Investors connect to match startup ideas with potential investors. Financial goal setting for effective money management."
+      ]
+    }
+  ],
+  "Experience": [
+    {
+      "Title": "Associate General Secretary",
+      "Organization": "Entrepreneur Development Cell VIIT",
+      "Duration": "Aug 2022 – Aug 2023",
+      "Responsibilities": [
+        "As Associate General Secretary I was responsible for providing assistance in overall direction and working of cell",
+        "I learn people management and leadership skills"
+      ]
+    }
+  ],
+  "Achievements": [
+    {
+      "Description": "200+ Problem Solving (DSA) Questions Solved Across platforms (Leet code, GFG, Hacker Rank)"
+    },
+    {
+      "Description": "5 Star Coder at Hacker Rank In Problem Solving (DSA)"
+    }
+  ]
+}
